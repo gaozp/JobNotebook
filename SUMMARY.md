@@ -1,4 +1,4 @@
-# SUMMARY
+# Table of contents
 
-* [简介](README.md)
-* [常见问题](Faq.md)
+* [Initial page](README.md)
+
