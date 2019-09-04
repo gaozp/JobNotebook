@@ -1,7 +1,6 @@
 git checkout master
 git add .
 git commit -m $1
-gitbook build
 git push -u origin master
 git checkout gh-pages
 cp -r _book/* .
