@@ -1,9 +1,17 @@
-# Android 面试手抄
-
 * [简介](README.md)
+* [前言](info.md)
+* [计算机基础](base/README.md)
 * [java部分](Java/README.md)
-    * [java1](Java/section1.md)
-* [Android部分](Android/README.md)
-    * [Android1](Android/section1.md)
+    * [java1](Java/Design_pattern.md)
+    * [java2](Java/Proxy.md)
+    * [java3](Java/Net.md)
+    * [java10](Java/Interview.md)
+* [Linux部分](Linux/README.md)
+    * [linux1](Linux/section.md)
+* [Android进阶](android_advance/README.md)
+    * [Android1](android_advance/section1.md)
+    * [稳定性](android_advance/stability/README.md)
+    * [性能优化](android_advance/perf/info.md)
+* [常见面试题](Interview/README.md)
 * [常见问题](Faq.md)
 
