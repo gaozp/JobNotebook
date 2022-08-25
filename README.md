@@ -1,7 +1,7 @@
 # 简介
 
 使用方法：  
-1.clone到本地
+1.clone到本地  
 2.添加需要的文件夹或者文章  
 3.在summary.md中进行添加对应链接  
 4.__使用gitbook serve进行预览__  
