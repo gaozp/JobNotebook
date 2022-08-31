@@ -13,6 +13,7 @@
     * [Android1](android_advance/section1.md)
     * [稳定性](android_advance/stability/README.md)
     * [性能优化](android_advance/perf/info.md)
+    * [RecyclerView缓存机制](android_advance/recycler.md)
 * [常见面试题](Interview/README.md)
     * [java面试题](Java/Interview.md)
     * [Android面试题]()
